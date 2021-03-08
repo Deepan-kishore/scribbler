@@ -49,7 +49,7 @@ a {
    width: 30%;
 } 
 .postmodalfield_post_input{
-   width: 100%;
+   width: 100% !important ;
 }
 #postmodalfield textarea{
    height: 270px;
